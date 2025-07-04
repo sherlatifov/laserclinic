@@ -1,0 +1,18 @@
+.navLink {
+    font-weight: 500;
+    font-style: normal;
+    font-size: clamp(1rem, 1vw, 64px);
+    letter-spacing: 0%;
+    color: rgba(34, 34, 34, 1);
+}
+.signInBtn {
+    padding: 10px 24px;
+    border-radius: 8px;
+    background-color: rgba(34, 34, 34, 1);
+    color: rgba(255, 255, 255, 1.0);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 20px;
+    letter-spacing: 0%;
+}
