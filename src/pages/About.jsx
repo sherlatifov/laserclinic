@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div>
       <div className=''>
-        <div className="container">
+        <div className="container-fluid">
           <h1 className='section-title'>
             О Лазер Клиник
           </h1>

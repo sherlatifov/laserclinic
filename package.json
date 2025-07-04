@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sherlatifov.github.io/laserclinic",
+  "homepage": "https://sherlatifov.github.io/laserclinicg",
   "dependencies": {
     "@fontsource/montserrat": "^5.2.6",
     "@testing-library/dom": "^10.4.0",
